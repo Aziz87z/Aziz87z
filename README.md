@@ -15,11 +15,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aziz87z&icon=0&color=0)](https://visitcount.itsvg.in)
 # 🕹️ My Games on Itch.io:
- <img src="https://github.com/user-attachments/assets/851e9ab6-4ecc-49b9-9bdb-0146cb2cf8e8" width="500">
+![image](https://github.com/user-attachments/assets/851e9ab6-4ecc-49b9-9bdb-0146cb2cf8e8)
 ## 🎮 [Skyward Bloom](https://azizcdm.itch.io/skyward-bloom)<br/>
-  <img src="https://github.com/user-attachments/assets/c68072c1-f16f-40d5-a348-584ad33390cc" width="500">
+![image](https://github.com/user-attachments/assets/c68072c1-f16f-40d5-a348-584ad33390cc)
 ## 🎮 [Santa Stuck!](https://azizcdm.itch.io/santa-stuck)<br/>
- <img src="https://github.com/user-attachments/assets/81dffbfe-dd45-41a2-8359-f05034816e5f" width="500">
+![image](https://github.com/user-attachments/assets/81dffbfe-dd45-41a2-8359-f05034816e5f)
 ## 🎮 [Dragons Vs Zombies](https://azizcdm.itch.io/dragons-vs-zombies)<br/>
-  <img src="https://github.com/user-attachments/assets/01c5e1b0-cd57-4186-85e6-8c9c3468d0bb" width="500">
+![image](https://github.com/user-attachments/assets/01c5e1b0-cd57-4186-85e6-8c9c3468d0bb)
 ## 🎮 [Knight and Gun](https://azizcdm.itch.io/knight-and-gun)<br/>
